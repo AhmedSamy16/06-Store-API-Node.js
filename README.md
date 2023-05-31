@@ -14,4 +14,4 @@ DELETE /api/v1/products/:id deletes the product with that id in DB if it exists 
 The project handle Invalid id error and not found errors.
 
 ## Topics covered
-Node.js, Express.js, mongoose
+Node.js, Express.js, mongoose, MongoDB
