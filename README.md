@@ -1,5 +1,5 @@
 # 06-Store-API-Node.js
-This is project 6/50 of my React Projects series. It's a store API applying All CRUD operations with All Errors handled globally.
+This is project 6/50 of my Node.js Projects series. It's a store API applying All CRUD operations with All Errors handled globally.
 
 GET  /api/v1/products/ returns the first 10 products in the DB.
 
